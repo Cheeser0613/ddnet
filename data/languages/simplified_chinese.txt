@@ -23,8 +23,6 @@
 # 2022-04-01 Dan_cao
 # 2022-05-14 Dan_cao
 # 2022-05-14 cheeser0613
-# 2022-06-16 cheeser0613
-# 2022-06-27 cheeser0613
 ##### /authors #####
 
 ##### translated strings #####
@@ -1181,7 +1179,7 @@ Themes directory
 == 主题目录
 
 Download skins
-== 在线获取皮肤
+== 下载官方皮肤
 
 Skin Database
 == 皮肤数据库
@@ -1312,6 +1310,12 @@ Refreshing...
 Kill Messages
 == 击杀消息
 
+Kill Message Normal Color
+== 击杀消息普通颜色
+
+Kill Message Highlight Color
+== 击杀消息强调颜色
+
 Show local player's key presses
 == 显示自己的按键
 
@@ -1414,37 +1418,34 @@ No answer from server yet.
 Download community skins
 == 下载社区皮肤
 
-Enable controller
-== 启用控制器
+Enable joystick
+== 启用手柄
 
-Controller %d: %s
-== 控制器 %d: %s
+Click to cycle through all available joysticks.
+== 点击以切换其他手柄
 
-Click to cycle through all available controllers.
-== 点击以切换其他控制器
-
-[Ingame controller mode]
+[Ingame joystick mode]
 Relative
 == 相对
 
-[Ingame controller mode]
+[Ingame joystick mode]
 Absolute
 == 绝对
 
-Ingame controller mode
-== 游戏内控制器瞄准模式
+Ingame joystick mode
+== 游戏内手柄瞄准模式
 
-Ingame controller sens.
+Ingame joystick sens.
 == 类比摇杆灵敏度（游戏）
 
-UI controller sens.
+UI joystick sens.
 == 类比摇杆灵敏度（界面）
 
-Controller jitter tolerance
+Joystick jitter tolerance
 == 类比摇杆错位容错
 
-No controller found. Plug in a controller and restart the game.
-== 未检测到任何控制器。请尝试重新连接控制器并重启游戏。
+No joysticks found. Plug in a joystick and restart the game.
+== 未检测到任何手柄。请尝试重新连接手柄并重启游戏。
 
 Device
 == 输入设备
@@ -1455,7 +1456,7 @@ Status
 Aim bind
 == 操作轴绑定
 
-Controller Axis #%d
+Joystick Axis #%d
 == 类比摇杆 #%d
 
 Mouse
@@ -1467,8 +1468,11 @@ Ingame mouse sens.
 UI mouse sens.
 == 滑鼠灵敏度（界面）
 
-Controller
-== 控制器
+Joystick
+== 手柄
+
+Use DDRace HUD
+== 使用 DDRace HUD
 
 Show dummy actions
 == 显示分身状态
@@ -1484,18 +1488,3 @@ Show player speed
 
 Show player target angle
 == 显示玩家瞄准角度
-
-Show jump indicator
-== 显示跳越次数
-
-Opacity of freeze bars inside freeze
-== 解冻进度条不透明度
-
-Normal Color
-== 非相关信息颜色
-
-Highlight Color
-== 相关信息颜色
-
-Extras
-== 其他
